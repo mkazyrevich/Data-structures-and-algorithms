@@ -1,0 +1,22 @@
+{
+  "name": "Algorithms",
+  "version": "1.0.0",
+  "description": "Data structures and algorithms on typescript",
+  "main": "index.js",
+  "repository": "git@github.com:mkazyrevich/Data-structures-and-algorithms.git",
+  "author": "kazyrevich <mkozyrevich@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^26.0.23",
+    "babel": "^6.23.0",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.1",
+    "@babel/preset-typescript": "^7.13.0",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
